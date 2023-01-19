@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 1,
+    "texture": "merald_xe",
+    "customModelName": "axe:default",
+    "name": "Forets Axe",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

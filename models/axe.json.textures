@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "green_axe_animation",
+        "1": "green_axe_texture"
+      },
+      "name": "default"
+    }
+  }
+}
