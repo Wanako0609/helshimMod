@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "green_sword_texture",
+        "1": "green_sword_texture_anim"
+      },
+      "name": "default"
+    }
+  }
+}
