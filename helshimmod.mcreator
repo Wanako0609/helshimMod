@@ -16,14 +16,59 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Feu",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Helshim",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Glace",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Plante",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Foudre",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.glace.name": "Glace",
+      "item.plante.name": "Plante",
       "item.foretssword.name": "Forets Sword",
-      "item.foretsaxe.name": "Forets Axe"
+      "item.feu.name": "Feu",
+      "item.foudre.name": "Foudre",
+      "item.foretsaxe.name": "Forets Axe",
+      "itemGroup.tabhelshim": "Helshim"
     }
   },
   "workspaceSettings": {
